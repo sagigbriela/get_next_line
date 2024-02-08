@@ -41,3 +41,5 @@ you want to.
 🗣 **Intenta leer lo menos posible cada vez que se llame a get_next_line(). Si encuentras un salto de línea, deberás devolver la línea actual. No leas el archivo entero y luego proceses cada línea.**
 
 </aside>
+
+<img src="https://github.com/sagigbriela/get_next_line/blob/main/getnextlone.png?raw=true" />
